@@ -1,3 +1,3 @@
 # TrolleyHub
 
-A troll version of github with swapped icons :trollface:
+A troll version of github with better icons :trollface:
