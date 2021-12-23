@@ -16,7 +16,7 @@ const replacements = {
   '.octicon-issue-opened.open, .octicon-issue-opened, .octicon-issue-opened.color-text-success, [title="Status: Open"] > .octicon-issue-opened': '🥴',
   '.octicon-issue-closed.closed': '☑️',
   '.octicon.octicon-git-pull-request-draft': `<img src="${tr}" style="margin-top: 5px; width: 16px; height: 16px;">`,
-  '.octicon-git-pull-request.open': `<img src="${troll}" style="margin-top: 5px; width: 16px; height: 16px;">`,
+  '.octicon-git-pull-request, .octicon-git-pull-request.open': `<img src="${troll}" style="margin-top: 5px; width: 16px; height: 16px;">`,
   '.octicon-git-pull-request-closed.closed': `<img src="${trollcrazy}" style="margin-top: 5px; width: 16px; height: 16px;">`,
   '.octicon-git-merge.merged, .octicon-git-merge.color-fg-done': `✅`,
 }
